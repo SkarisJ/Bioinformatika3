@@ -1,0 +1,17 @@
+Staphylococcus aureus strain JDFM SA01 chromosome, complete genome
+Staphylococcus aureus strain RIVM_M085090 chromosome, complete genome
+Staphylococcus aureus strain DSM 20231 chromosome, complete genome
+Staphylococcus aureus strain Viktor chromosome, complete genome
+Staphylococcus aureus strain Sett chromosome, complete genome
+
+Escherichia coli strain XYEH3314 chromosome, complete genome
+Escherichia coli strain MS1665 chromosome, complete genome
+Escherichia coli strain MS1665 chromosome, complete genome
+Escherichia coli strain HeN100 chromosome, complete genome
+Escherichia coli strain XYEH3783 chromosome, complete genome
+
+Thermus thermophilus strain N-1 chromosome, complete genome
+Thermus thermophilus strain N-1 chromosome, complete genome
+Thermus thermophilus strain N-1 chromosome, complete genome
+Thermus thermophilus SNM6-6 DNA, complete genome
+Thermus thermophilus HC11 DNA, complete genome
